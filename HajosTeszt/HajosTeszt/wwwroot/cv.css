@@ -1,0 +1,52 @@
+﻿body {
+    
+}
+
+div {
+    border: 1px solid fuchsia;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 10px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+a {
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+    a:hover {
+        background-color: fuchsia
+    }
+
+span {
+    color: fuchsia;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+}
+
+#listak {
+    background-color: lightgrey;
+}
+
+.csakfeher {
+    background-color: white;
+    border-radius: 25px;
+    width: 100px
+}
+
+.sorrendi {
+    font-style: italic
+}
+
+ű
+img {
+    margin: auto;
+    display: block
+}
