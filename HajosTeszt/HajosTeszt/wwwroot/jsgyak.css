@@ -1,0 +1,21 @@
+﻿body {
+    color:white;    
+}
+
+
+.sor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    top: 50%;
+}
+
+.elem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+    
+}
